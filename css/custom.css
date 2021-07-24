@@ -1,0 +1,35 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    width: 1200px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+table.author {
+    font-size: 20px;
+    text-align: center;
+    width: 60%;
+    margin-bottom: 24px;
+}
+table.affiliation {
+    font-size: 18px;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 18px;
+}
+div.material {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+div.env {
+    display: inline-block;
+}
+div.comparison {
+    display: inline-block;
+    width: 512px;
+}
